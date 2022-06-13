@@ -2,4 +2,5 @@
 Repositório criado para o Desafio de Projeto sobre git/github
 
 ## Links Úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+1. [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+2. [Comandos Essenciais GIT](https://insightlab.ufc.br/os-6-comandos-do-git-que-todo-cientista-de-dados-deve-saber)
